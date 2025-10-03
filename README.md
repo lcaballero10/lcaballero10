@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luis Caballero</h1>
 <h3 align="center">Robotics and AI enthusiastic</h3>
 
-- I’m currently pursuing a MSc in **Automation and Control Eng.**
+- 🏛️ I’m currently pursuing a MSc in **Automation and Control Eng.** at Polictenico di Milano in Italy.
 
 - 📫 How to reach me **lcaballerof10@gmail.com**
 
-- ⚡ Fun fact **If I'm not playing with robots, I'm playing football**
+- ⚡ Fun fact: If I'm not playing with robots, I'm playing football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis-caballerof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-caballerof" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-caballerof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-caballerof" height="25" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

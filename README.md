@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Caballero</h1>
+<h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Robotics and AI enthusiastic</h3>
 
 - 🏛️ I’m currently pursuing a MSc in **Automation and Control Eng.** at Polictenico di Milano in Italy.

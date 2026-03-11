@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lcaballerof10@gmail.com**
 
-- ⚡ Fun fact: I like footbal as much as I like robots (and food).
+- ⚡ Fun fact: I like football as much as I like robots (and food).
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
